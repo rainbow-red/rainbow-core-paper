@@ -3,5 +3,5 @@ version: ${project.version}
 main: de.remadisson.core.rainbowcorepaper.RainbowCorePaper
 api-version: 1.16
 authors: [remadisson]
-description: This Plugin is part of the main structure of RainbowRed
+description: This Plugin is part of the main structure of RainbowRed.
 website: https://www.remadyreturns.de/
